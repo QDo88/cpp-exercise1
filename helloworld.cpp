@@ -1,7 +1,10 @@
 #include <iostream>
 
-int main() {
-	std::cout << "Hello World";
-	return 0;
-}
+using namespace std;
 
+int main() {
+
+    for (int i = 0; i < 20; i++) {
+        cout  << "Hello World! \n";
+    }
+}
